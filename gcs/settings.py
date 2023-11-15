@@ -106,9 +106,9 @@ WSGI_APPLICATION = 'gcs.wsgi.application'
 DATABASES = {"default": env.db()}
 
 # If using Cloud SQL Auth Proxy, change the database values accordingly.
-if os.environ.get("USE_CLOUD_SQL_AUTH_PROXY"):
-    DATABASES["default"]["HOST"] = "127.0.0.1"
-    DATABASES["default"]["PORT"] = 5432
+if os.environ.get("USE_CLOUD_SQL_AUTH_PROXY") == "true":
+    DATABASES["default"]["HOST"] = "localhost"
+    DATABASES["default"]["PORT"] = 1234
 
 
 # Password validation

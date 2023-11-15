@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pongtogether",
+  "private_key_id": "d094ed00f04a2520d53d1bb62b1cd9182f31aaf7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDXyBJdAtOGE4AG\nSQ0v5KDy72flABIic+jIuTxkx09KrjWL/uBFdM7hveuXTgpmpE+UCc228cnMEhMq\n8mhaT/MHmreodOqQNrs3Jvria/Cnp0pYQh6vqHU3tSAELBZKy1AUyHTie6V/LIPG\nRC/JaFlsKoRQdkkg76sFqmpozT7RB1aSm/WEERkvtnwOk4jQuSlhA6k3dVwJdIzD\ntW1SPPQvAznUzN89IzRBWZXR2xNWn1R9+lVj/7UIxvYXNZ92VDrPzCFAIle16VWc\nrQKgOeUVLRuu6EUfjHzjwhX2TktWApAK8xv0mR4E+3w/7YPw9vpT8qpdctfMW6dT\nlSg4BY8ZAgMBAAECgf9orwDU0UhBsDQqHkaofUZhy7vtG0Zbpt/u/XKgt5TTmqEh\nqt5hAm0dmzhXQqgO7XGt775N3+/7BVV1yhy+6hJO75XU2kikMidT3FsoTy3C4nl4\nncIPEUnr0C2Ne4hsW/CokSMrWHvWj/w3N75UURkgbGjEoGAIhyY+21rbo/0IDbY1\nf/5wW8dnysAe+nvYicySEXBN8tYI1IUJZoGIpeukBN6NxigYZaI3E6EH81f108ol\nHccPGxMhC/0lP4NfxjYKy50jFAV4yzwmlmfAHcpHJJXODRLhovUoib6aNLlKfmnN\ntJP7dkXdJPfBNOMgMGfa+7gCPL+kuwL7WWJZogkCgYEA+neJ0//pzXAs1xZG8lGM\nBJkiK5v1UGGYALFt7zfBTqwWbc9ZmPaEChn46bz1z9yzNxjtL+dLPegYQ5Ly03po\nh+IEur/14kQpfH+3r4Fr9rmDUnbNkeVq20IOirtGoBY7ivvLNnwVsjoTBIgWM3oS\ncqurGRb+e5JtMou1Lr78KL0CgYEA3IxgoiBU0Z9BPfZUBgKE+oUCC6CSxoOaccys\nj8J4BjtP7zl/bUWDBandOuWynZLt+SlYIqiTNbbnC3DQugYyUuW1PvoMBuCYEiFK\nYEJM9RJwknQ5XoMHMr9RLd94HXeLaoJPPdefaK9Ybx5zNSuv/0YZiUvqsduAPBic\n2rSfC40CgYAO8mlIPIJwXxxd7ZdoSJOJhrXyUklOdbSDfhMobnRbxItGHFSlezif\n/bLMCBnHQM11IUiuTihAVoR0K+XP1wM78LIFjwUWbqjnJBwLHjcaLzH2Dt7vsPgy\ng3uorcpmLU16WtJiuv70duDBqXlhsww8yZ/ZTHT9XNylYo76bi1QJQKBgC5XxPps\nRsZha2kkuJUmtGCb0Ek3LYBPKQXelygCGgxdLDe9YjxIzfZDsjvtBjI8LIsdl+p4\nd65ix3vM8d8U7EAlCoe4LQzI5stweVtusxMQE92CVIe6iqmsL9euzGOMuhvgU9xP\n0axCpBd9U4IJswq15SnHbQKAeBqopVUDfSQFAoGAC5tLMlXz/vorx2xGMj4cHhkC\nAqMv2rTTZWtTZhaP4XFdlH9HO//OMPYYgu9R/wHbk3fZ9jxWIQ5/5MzWZGlXd/zn\nRq8EvYEIp/pmw6vAmTPZecSjvb8B8WqV0encplwUp1IDUshPcu30fWA75Af1fbnm\nbP6AM5ViicCiEajB1XE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-with-terraform@pongtogether.iam.gserviceaccount.com",
+  "client_id": "112109368931325177002",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-with-terraform%40pongtogether.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -4,3 +4,5 @@ TERRAFORM COMMANDS AUßERHALB VON DEM VENV
 1. run dienst löschen
 2. gcloud builds submit
 3. terraform apply -var project=pongtogether
+
+gcloud builds submit --config cloudbuild-migrate.yaml
